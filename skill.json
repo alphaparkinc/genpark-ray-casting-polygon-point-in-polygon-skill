@@ -1,0 +1,19 @@
+{
+  "name": "genpark-ray-casting-polygon-point-in-polygon-skill",
+  "version": "1.0.0",
+  "description": "Jordan curve ray-casting point-in-polygon (PIP) test with polygon area and centroid Shoelace calculation",
+  "category": "Service",
+  "tags": [
+    "mcp",
+    "point-in-polygon",
+    "ray-casting",
+    "jordan-curve",
+    "polygon-area",
+    "shoelace-formula",
+    "computational-geometry",
+    "python-standard-library",
+    "agent-skills",
+    "gis",
+    "spatial-analysis"
+  ]
+}
